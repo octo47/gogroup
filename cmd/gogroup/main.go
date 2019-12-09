@@ -8,7 +8,7 @@ import (
 	"regexp"
 	"strings"
 
-	"gogroup"
+	"github.com/vasi-stripe/gogroup"
 	"strconv"
 )
 
